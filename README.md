@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aladdin
+- 👋 Hi, I’m Alaa Adeen (Aladdin) Al kawarit
 - 👀 I’m interested in programmewring and technology
 - 🌱 I’m currently learning Java , Java script , html , Css, C# , React and Databases
 - 💞️ I’m looking to collaborate on programmering
