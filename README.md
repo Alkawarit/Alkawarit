@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alaa Adeen (Aladdin) Al kawarit
 - 👀 I’m interested in programmewring and technology
-- 🌱 I’m currently learning Java , Java script , html , Css, C# , React and Databases
+- 🌱 I’m currently learning C#, .NET & MVC, Java , Java script , html , Css, React and Databases
 - 💞️ I’m looking to collaborate on programmering
 - 📫 How to reach me by my email : a.a.alkawarit@gmail.com
 
